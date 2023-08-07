@@ -1,0 +1,17 @@
+{
+    "deepscan.enable": true,
+    "cSpell.words": [
+        "arange",
+        "argsort",
+        "argwhere",
+        "cmap",
+        "fastdtw",
+        "ffill",
+        "fftfreq",
+        "freqs",
+        "matplotlib",
+        "seaborn",
+        "xlabel",
+        "ylabel"
+    ]
+}
